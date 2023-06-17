@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **phusang.official@gmail.com**
 
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+![1](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) | <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" />
 
 
 <h2>Technologies and Tools</h2>
