@@ -109,7 +109,6 @@
 </table>
 <br><br>
 </div>
-
 <h2>Statistics</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangtheinnovator&show_icons=true&locale=en&layout=compact" alt="sangtheinnovator" /></p>
