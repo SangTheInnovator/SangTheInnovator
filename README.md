@@ -3,7 +3,7 @@
 
 - 🔭 Full-stack developer with 2+ years of experience designing and building scalable, high-performance web and mobile applications
   
-- 🌱 Proficient in front-end technologies like React, Next.js, TailwindCSS as well as back-end technologies like Node.js, ExpressJS
+- 🌱 Proficient in front-end technologies like React, Next.js, TailwindCSS as well as back-end technologies like Node.js, ExpressJS and Python
 
 - 🤔 Always study the new things
   
