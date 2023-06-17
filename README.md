@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, Sang Le is here </h1>
-<img src="https://giphy.com/embed/PiuL0MyzhlQv9fkNrY" width="480" height="360"></img>
+
+| ![1](https://giphy.com/embed/PiuL0MyzhlQv9fkNrY) | ![2](https://media0.giphy.com/media/WUBvquKnbnXhbQUd8f/giphy.gif?cid=ecf05e47d67685c5a3576e7b7d500e1297fa39551ced9b59&rid=giphy.gif) 
 
 - 🔭 Full-stack developer with 2+ years of experience designing and building scalable, high-performance web and mobile applications
   
