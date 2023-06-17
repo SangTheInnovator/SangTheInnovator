@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **phusang.official@gmail.com**
 
-<h2>Technology stack :man_technologist:</h2>
+<h2>Technologies and Tools</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -109,6 +109,7 @@
 </table>
 <br><br>
 </div>
+<h2>Statistics</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangtheinnovator&show_icons=true&locale=en&layout=compact" alt="sangtheinnovator" /></p>
 
@@ -117,7 +118,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangtheinnovator&" alt="sangtheinnovator" /></p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sang-le-2613b7279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sang-le-2613b7279/" height="30" width="40" /></a>
 </p>
