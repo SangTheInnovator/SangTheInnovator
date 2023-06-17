@@ -77,6 +77,10 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
         <br>Nodejs
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Expressjs" />
+        <br>Expressjs
+    </td>
   </tr>
   
  <tr>
@@ -96,7 +100,7 @@
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
         <br>WordPress
     </td>
-              <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
       <br>GraphQL
     </td>
