@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, Sang Le is here </h1>
 
+![1](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+
 - 🔭 Full-stack developer with 2+ years of experience designing and building scalable, high-performance web and mobile applications
   
 - 🌱 Proficient in front-end technologies like React, Next.js, TailwindCSS as well as back-end technologies like Node.js, ExpressJS
@@ -9,9 +11,6 @@
 - 💬 Ask me about **anything!**
 
 - 📫 How to reach me **phusang.official@gmail.com**
-
-![1](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) | <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" />
-
 
 <h2>Technologies and Tools</h2>
 <div style="display: flex; align-items: flex-start; align: center">
