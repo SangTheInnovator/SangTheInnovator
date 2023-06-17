@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sang-le-2613b7279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sang-le-2613b7279/" height="30" width="40" /></a>
 </p>
 
-<h2>My stack :man_technologist:</h2>
+<h2>Technology stack :man_technologist:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
