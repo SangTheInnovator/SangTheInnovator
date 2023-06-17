@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **phusang.official@gmail.com**
 
-| ![1](https://media.giphy.com/media/fvf71YSL7vymjQrpHE/giphy.gif) | ![2](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif) |
+| ![1](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif) | ![2](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif) |
 | --- | --- | 
 <br/>
 <hr>
