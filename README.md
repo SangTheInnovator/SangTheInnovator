@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **phusang.official@gmail.com**
 
+<br>
 <h2>Technologies and Tools</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
