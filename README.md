@@ -5,7 +5,7 @@
   
 - 🌱 Proficient in front-end technologies like React, Next.js, TailwindCSS as well as back-end technologies like Node.js, ExpressJS
 
-- 🤔 I’m looking for help with my projects
+- 🤔 Always study the new things
   
 - 💬 Ask me about **anything!**
 
