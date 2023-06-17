@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Sang Le is here </h1>
 
-| ![1](https://media.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif) | ![2](https://media0.giphy.com/media/WUBvquKnbnXhbQUd8f/giphy.gif?cid=ecf05e47d67685c5a3576e7b7d500e1297fa39551ced9b59&rid=giphy.gif) 
+![1](https://www.xperiencehr.com/uploads/Software_Development_c1866b0f87.jpg)
 
 - 🔭 Full-stack developer with 2+ years of experience designing and building scalable, high-performance web and mobile applications
   
