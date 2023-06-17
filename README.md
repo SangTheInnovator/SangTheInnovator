@@ -1,10 +1,11 @@
-![1](https://www.xperiencehr.com/uploads/Software_Development_c1866b0f87.jpg)
 
 <h1 align="center">Hi 👋, Sang Le is here </h1>
 
 - 🔭 Full-stack developer with 2+ years of experience designing and building scalable, high-performance web and mobile applications
   
 - 🌱 Proficient in front-end technologies like React, Next.js, TailwindCSS as well as back-end technologies like Node.js, ExpressJS
+
+- 🤔 I’m looking for help with my projects
   
 - 💬 Ask me about **anything!**
 
