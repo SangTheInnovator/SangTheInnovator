@@ -9,7 +9,10 @@
 - 💬 Ask me about **anything!**
 
 - 📫 How to reach me **phusang.official@gmail.com**
+<br>
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+
+
 <h2>Technologies and Tools</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
