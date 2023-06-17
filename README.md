@@ -12,6 +12,8 @@
 
 | ![1](https://media.giphy.com/media/fvf71YSL7vymjQrpHE/giphy.gif) | ![2](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif) |
 | --- | --- | 
+<br/>
+<hr>
 
 <h2>Technologies and Tools</h2>
 <div style="display: flex; align-items: flex-start; align: center">
@@ -111,6 +113,9 @@
 </table>
 <br><br>
 </div>
+
+<hr>
+
 <h2>Statistics</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangtheinnovator&show_icons=true&locale=en&layout=compact" alt="sangtheinnovator" /></p>
@@ -119,6 +124,8 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangtheinnovator&" alt="sangtheinnovator" /></p>
+
+<hr>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
