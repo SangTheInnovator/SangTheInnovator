@@ -78,10 +78,8 @@
     </td>
   </tr>
  <tr>
-     
-      </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
     <td align="center" width="96">
@@ -90,11 +88,11 @@
     </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
+        <br>Git
     </td>
-              <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+        <br>WordPress
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
