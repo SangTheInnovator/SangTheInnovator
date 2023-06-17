@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sang Le</h1>
 <h3 align="center">A passionate software developer from Finland</h3>
 
+- 🔭 Full-stack developer with 2+ years of experience designing and building scalable, high-performance web and mobile applications
+  
+- 🌱 Proficient in front-end technologies like React, Next.js, TailwindCSS as well as back-end technologies like Node.js, ExpressJS
+  
 - 💬 Ask me about **anything!**
 
 - 📫 How to reach me **phusang.official@gmail.com**
-
-- ⚡ Fun fact **I think I am philosopher**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,8 +19,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangtheinnovator&show_icons=true&locale=en&layout=compact" alt="sangtheinnovator" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangtheinnovator&show_icons=true&locale=en" alt="sangtheinnovator" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangtheinnovator" alt="sangtheinnovator" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangtheinnovator&show_icons=true&locale=en" alt="sangtheinnovator" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangtheinnovator&" alt="sangtheinnovator" /></p>
