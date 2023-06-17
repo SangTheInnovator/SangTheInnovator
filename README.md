@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, Sang Le is here </h1>
 
-
-
 - 🔭 Full-stack developer with 2+ years of experience designing and building scalable, high-performance web and mobile applications
   
 - 🌱 Proficient in front-end technologies like React, Next.js, TailwindCSS as well as back-end technologies like Node.js, ExpressJS
@@ -11,6 +9,9 @@
 - 💬 Ask me about **anything!**
 
 - 📫 How to reach me **phusang.official@gmail.com**
+
+| ![1](https://media.giphy.com/media/fvf71YSL7vymjQrpHE/giphy.gif) | ![2](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif) |
+| --- | --- | 
 
 <h2>Technologies and Tools</h2>
 <div style="display: flex; align-items: flex-start; align: center">
