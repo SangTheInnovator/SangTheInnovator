@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Sang Le is here </h1>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 Full-stack developer with 2+ years of experience designing and building scalable, high-performance web and mobile applications
   
 - 🌱 Proficient in front-end technologies like React, Next.js, TailwindCSS as well as back-end technologies like Node.js, ExpressJS
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **phusang.official@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <br/>
 <hr>
 
