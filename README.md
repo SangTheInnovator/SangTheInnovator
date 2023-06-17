@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Sang Le is here </h1>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/PiuL0MyzhlQv9fkNrY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/3d-development-isometric-PiuL0MyzhlQv9fkNrY">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/PiuL0MyzhlQv9fkNrY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 - 🔭 Full-stack developer with 2+ years of experience designing and building scalable, high-performance web and mobile applications
   
 - 🌱 Proficient in front-end technologies like React, Next.js, TailwindCSS as well as back-end technologies like Node.js, ExpressJS
