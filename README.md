@@ -42,20 +42,20 @@
         <br> Jenkins
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="bash" />
-        <br>Bash
+        <img src="https://skillicons.dev/icons?i=Terraform" width="48" height="48" alt="bash" />
+        <br>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VS Code
+      <br>
     </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-        <br>Git
+        <br>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="VsCode" />
-      <br>Gitlab
+      <br>
     </td>
     
   <tr>
