@@ -35,8 +35,30 @@
       <br> Nginx
     </td>
   </tr>
-  
- <tr>
+
+  <tr>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="linux" />
+        <br> Jenkins
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="bash" />
+        <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="VsCode" />
+      <br>Gitlab
+    </td>
+    
+  <tr>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
         <br>Linux
@@ -54,8 +76,8 @@
         <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="VsCode" />
-      <br>Github
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="VsCode" />
+      <br>Gitlab
     </td>
    
  </tr>
