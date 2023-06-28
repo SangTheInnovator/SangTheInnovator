@@ -64,10 +64,7 @@
 </div>
 <h2>Statistics</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangtheinnovator&show_icons=true&locale=en&layout=compact" alt="sangtheinnovator" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangtheinnovator&show_icons=true&locale=en" alt="sangtheinnovator" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangtheinnovator&" alt="sangtheinnovator" /></p>
 
