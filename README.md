@@ -19,6 +19,12 @@
       <br> Python
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br> Java
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br> Docker
     </td>
@@ -42,44 +48,25 @@
         <br> Jenkins
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=Terraform" width="48" height="48" alt="bash" />
-        <br>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-        <br>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="VsCode" />
-      <br>
-    </td>
-    
-  <tr>
-   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
-        <br>Linux
+        <br> Linux
     </td>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="bash" />
-        <br>Bash
+        <br> Bash
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VS Code
+      <br> VS Code
     </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-        <br>Git
+        <br> Git
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="VsCode" />
-      <br>Gitlab
+      <br> Gitlab
     </td>
-   
  </tr>
 </table>
 <br>
