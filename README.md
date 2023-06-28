@@ -63,10 +63,9 @@
 </div>
 <h2>Statistics</h2>
 
-<p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sangtheinnovator&show_icons=true&locale=en" alt="sangtheinnovator" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sangtheinnovator&" alt="sangtheinnovator" />
-</p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangtheinnovator&show_icons=true&locale=en" alt="sangtheinnovator" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangtheinnovator&" alt="sangtheinnovator" />
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
