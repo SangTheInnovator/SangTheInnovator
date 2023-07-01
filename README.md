@@ -37,6 +37,29 @@
   </tr>
 
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br> Redis
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
+        <br> MongoDB
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
+        <br> NodeJS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="dxpressjs" />
+      <br> ExpressJS
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins" />
+        <br> Jenkins
+    </td>
+  </tr>
+ 
+  <tr>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
         <br> Linux
