@@ -47,13 +47,13 @@
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br> Redis
     </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
-        <br> MongoDB
-    </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="postgresql" />
         <br> PostgreSQL
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
+        <br> MongoDB
     </td>
     <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
@@ -79,7 +79,11 @@
         <br> Bash
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <img src="https://skillicons.dev/icons?i=markdown" width="48" height="48" alt="markdown" />
+      <br> Markdown
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VScode" />
       <br> VS Code
     </td>
     <td align="center" width="96"> 
@@ -87,7 +91,7 @@
         <br> Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="VsCode" />
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="Gitlab" />
       <br> Gitlab
     </td>
  </tr>
