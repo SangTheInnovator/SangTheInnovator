@@ -19,6 +19,12 @@
       <br> Python
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br> Java
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br> Docker
     </td>
@@ -44,6 +50,10 @@
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
         <br> MongoDB
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="postgresql" />
+        <br> PostgreSQL
     </td>
     <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
