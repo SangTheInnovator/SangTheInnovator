@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, Sang Le is here !</h1>
   
-- 🌱 Proficient in DevOps technologies and Software Development
+- 🌱 Proficient in Typescript, ReactJS, Node, MongoDB, Linux and AWS
 
 - 🤔 Always study the new things
 
