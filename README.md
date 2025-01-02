@@ -1,110 +1,29 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<h1 align="center">Hi 👋, Sang Le is here !</h1>
-  
-- 🌱 Proficient in Typescript, ReactJS, Node, MongoDB, Linux and AWS
+<h1 align="center">Hello world 👋 </h1>
 
-- 🤔 Always study the new things
-
-- 📫 How to reach me **phusang.official@gmail.com**
-
-<br>
-<h2>Technologies and Tools</h2>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br> Javascript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br> Typescript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br> ReactJS
-    </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-      <br> Redux
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br> Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br> AWS
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br> Redis
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="postgresql" />
-        <br> PostgreSQL
-    </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
-        <br> MongoDB
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
-        <br> NodeJS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="dxpressjs" />
-      <br> ExpressJS
-    </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins" />
-        <br> Jenkins
-    </td>
-  </tr>
- 
-  <tr>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
-        <br> Linux
-    </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="bash" />
-        <br> Bash
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=markdown" width="48" height="48" alt="markdown" />
-      <br> Markdown
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VScode" />
-      <br> VS Code
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-        <br> Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="Gitlab" />
-      <br> Gitlab
-    </td>
- </tr>
-</table>
-<br>
-</div>
-<h2>Statistics</h2>
+## 💫 About Me:
+Welcome to my GitHub profile! My name is Sang Le - an enthusiastic IT major who thrives on all things technology and gadgets. My expertise spans across diverse domains including DevOps, Cloud Computing and Automation. Through my projects and contributions, I aim to harness the power of cutting-edge advancements to create secure, efficient, and scalable solutions. Let's transform ideas into reality through code and products!<br>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangtheinnovator&show_icons=true&locale=en" alt="sangtheinnovator" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangtheinnovator&" alt="sangtheinnovator" />
+- 💬 Ask me about **DevOps, AWS, CI/CD, Docker, K8s, Jenkins, Terraform, Monitoring, Linux, Ansible or any Tech problems**
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/sang-le-2613b7279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sang-le-2613b7279/" height="30" width="40" /></a>
-</p>
+- 👨‍💻 Portfolio: **sang.devops**
+
+- 📫 How to reach me **phusang.official@gmail.com** 
+
+
+# 📊 GitHub Stats:
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%207%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phusangle/) 
+
+# 💻 Tech Stack:
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat-square&logo=vagrant&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat-square&logo=yaml&logoColor=151515) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat-square&logo=wireguard&logoColor=white)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
