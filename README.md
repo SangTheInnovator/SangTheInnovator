@@ -1,10 +1,7 @@
 <h1 align="center">Hello world 👋 </h1>
 
 ## 💫 About Me:
-Welcome to my GitHub profile! My name is Sang Le - an enthusiastic IT major who thrives on all things technology and gadgets. My expertise spans across diverse domains including DevOps, Cloud Computing and Automation. Through my projects and contributions, I aim to harness the power of cutting-edge advancements to create secure, efficient, and scalable solutions. Let's transform ideas into reality through code and products!<br>
-
-
-- 💬 Ask me about **DevOps, AWS, CI/CD, Docker, K8s, Jenkins, Terraform, Monitoring, Linux, Ansible or any Tech problems**
+Welcome to my GitHub profile! My name is Sang Le - an enthusiastic IT major who thrives on all things technology and gadgets. My expertise spans across diverse domains including DevOps, Cloud Computing and Automation. Through my projects and contributions, I aim to harness the power of cutting-edge advancements to create secure, efficient, and scalable solutions. Let's transform ideas into reality through code and products!<br
 
 - 👨‍💻 Portfolio: **sang.devops**
 
