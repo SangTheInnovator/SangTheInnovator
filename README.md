@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋 </h1>
-# Sang Le | Computational Product Designer
+<h3 align="center">Sang is here with his AI Agent </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=00A6A6&center=true&vCenter=true&width=650&lines=Computational+Industrial+Design;Generative+Design+%26+Engineering;From+Algorithms+to+Physical+Products" alt="Animated introduction" />
@@ -47,9 +47,9 @@ Interested in using algorithms, parametric modeling, simulation, and AI to creat
 **CAD & Computational Design**
 
 <p>
-  <img src="https://img.shields.io/badge/Autodesk_Fusion-Learning-0696D7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rhinoceros_3D-Learning-801010?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Grasshopper-Learning-7BAA3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Autodesk_Fusion-0696D7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rhinoceros_3D-801010?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grasshopper-7BAA3C?style=for-the-badge" />
 </p>
 
 **Engineering & Optimization**
@@ -68,9 +68,9 @@ Interested in using algorithms, parametric modeling, simulation, and AI to creat
 
 | Project | Focus | Status |
 |---|---|---|
-| Generative Product Component | Parametric CAD & Optimization | Planning |
-| Computational Lattice Structure | Computational Geometry & 3D Printing | Planning |
-| AI-Assisted Product Engineering | Python & Generative Engineering | Planning |
+| Generative Product Component | Parametric CAD & Optimization |
+| Computational Lattice Structure | Computational Geometry & 3D Printing | 
+| AI-Assisted Product Engineering | Python & Generative Engineering | 
 
 ---
 
