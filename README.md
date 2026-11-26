@@ -26,12 +26,12 @@ Interested in using algorithms, parametric modeling, simulation, and AI to creat
 <p>
   <img src="https://img.shields.io/badge/Parametric_Design-Research-00A6A6?style=flat-square" />
   <img src="https://img.shields.io/badge/Generative_Design-Research-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computational_Geometry-Exploring-3776AB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Topology_Optimization-Learning-4B8BBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/FEA-Exploring-008577?style=flat-square" />
-  <img src="https://img.shields.io/badge/Digital_Manufacturing-Research-555555?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_for_Engineering-Exploring-F7931E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sustainable_Design-Research-2E8B57?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computational_Geometry-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Topology_Optimization-4B8BBE?style=flat-square" />
+  <img src="https://img.shields.io/badge/FEA-008577?style=flat-square" />
+  <img src="https://img.shields.io/badge/Digital_Manufacturing-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_for_Engineering-F7931E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sustainable_Design-2E8B57?style=flat-square" />
 </p>
 
 ---
@@ -55,19 +55,19 @@ Interested in using algorithms, parametric modeling, simulation, and AI to creat
 **Engineering & Optimization**
 
 <p>
-  <img src="https://img.shields.io/badge/Generative_Design-Research-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/FEA-Exploring-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Topology_Optimization-Learning-4B8BBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/NumPy-Learning-013243?style=flat-square" />
-  <img src="https://img.shields.io/badge/SciPy-Learning-8CAAE6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Generative_Design-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/FEA-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Topology_Optimization-4B8BBE?style=flat-square" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Focus | Status |
-|---|---|---|
+| Project | Focus |
+|---|---|
 | Generative Product Component | Parametric CAD & Optimization |
 | Computational Lattice Structure | Computational Geometry & 3D Printing | 
 | AI-Assisted Product Engineering | Python & Generative Engineering | 
