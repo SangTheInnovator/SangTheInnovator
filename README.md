@@ -1,230 +1,100 @@
 <h1 align="center">Hello world 👋 </h1>
-```{=html}
+# Sang Le | Computational Product Designer
 
-```
-```{=html}
-<h1 align="center">
-```
-Hi, I'm Sang Le 👋
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-Aspiring Computational Product Designer
-```{=html}
-</h3>
-```
-```{=html}
 <p align="center">
-```
-Exploring the intersection of `<strong>`{=html}computational design,
-generative design, engineering, and technology`</strong>`{=html}.
-```{=html}
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=00A6A6&center=true&vCenter=true&width=650&lines=Computational+Industrial+Design;Generative+Design+%26+Engineering;From+Algorithms+to+Physical+Products" alt="Animated introduction" />
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="[YOUR_PORTFOLIO_URL]">`{=html}Portfolio`</a>`{=html} ·
-`<a href="[YOUR_LINKEDIN_URL]">`{=html}LinkedIn`</a>`{=html} ·
-`<a href="mailto:[YOUR_EMAIL]">`{=html}Email`</a>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Computational_Design-00A6A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Field-Industrial_Design-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Background-IT_Engineering-3776AB?style=flat-square" />
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-I'm **\[YOUR NAME\]**, an Engineer with an interest in developing at
-the intersection of digital technology and physical product creation.
+Engineer exploring the intersection of **Computational Design, Generative Engineering, and Physical Product Development**.
 
-My current learning and research focus is on **Computational Design**
-and **Generative Design**---using algorithms, parametric modeling,
-programming, and engineering principles to explore, evaluate, and
-improve product concepts.
+Interested in using algorithms, parametric modeling, simulation, and AI to create functional, optimized, and manufacturable products.
 
-I enjoy connecting software development and analytical thinking with 3D
-modeling, design exploration, simulation, and digital manufacturing. My
-long-term goal is to grow into a **Computational Product Designer** who
-can translate complex problems into functional, efficient, and
-manufacturable products.
+---
 
--   🔭 **Currently exploring:** Computational Design, Generative Design,
-    and Computational Product Development.
--   🌱 **Learning:** Parametric modeling, computational geometry,
-    engineering fundamentals, and design optimization.
--   🧩 **Background:** IT engineering, software, systems, and technical
-    problem-solving.
--   🎯 **Goal:** Bridge the gap between software, product design, and
-    engineering.
--   🤝 **Open to:** Research collaboration, learning projects, and
-    conversations about computational design and digital manufacturing.
+## 🧠 Research Interests
 
-------------------------------------------------------------------------
-
-## 🧭 Research & Learning Interests
-
-  -----------------------------------------------------------------------
-  Area                                Topics
-  ----------------------------------- -----------------------------------
-  Computational Design                Parametric design, algorithmic
-                                      modeling, computational geometry
-
-  Generative Design                   Design-space exploration,
-                                      generative workflows, evolutionary
-                                      algorithms
-
-  Computational Engineering           Structural optimization,
-                                      simulation-driven design,
-                                      engineering analysis
-
-  Product Design                      Product architecture, ergonomics,
-                                      functional design, prototyping
-
-  Digital Manufacturing               Additive manufacturing, design for
-                                      manufacturing, CAD/CAM
-
-  AI for Engineering                  Machine learning for design
-                                      exploration, surrogate modeling,
-                                      AI-assisted workflows
-
-  Sustainable Design                  Lightweight structures, material
-                                      efficiency, lifecycle-aware design
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-## 🛠️ Skills & Technology
-
-> Skill badges below are organized by area. Keep only the technologies
-> you currently use or are actively learning, and update them as your
-> experience grows.
-
-### Programming & Software Engineering
-
-```{=html}
 <p>
-```
-`<img alt="Python" src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white">`{=html}
-`<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-Exploring-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">`{=html}
-`<img alt="Git" src="https://img.shields.io/badge/Git-Workflow-F05032?style=for-the-badge&logo=git&logoColor=white">`{=html}
-`<img alt="GitHub" src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white">`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/Parametric_Design-Research-00A6A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Generative_Design-Research-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computational_Geometry-Exploring-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Topology_Optimization-Learning-4B8BBE?style=flat-square" />
+  <img src="https://img.shields.io/badge/FEA-Exploring-008577?style=flat-square" />
+  <img src="https://img.shields.io/badge/Digital_Manufacturing-Research-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_for_Engineering-Exploring-F7931E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sustainable_Design-Research-2E8B57?style=flat-square" />
 </p>
-```
-### CAD & Computational Design
 
-```{=html}
+---
+
+## 🛠️ Tech Stack
+
+**Programming & Development**
+
 <p>
-```
-`<img alt="Autodesk Fusion" src="https://img.shields.io/badge/Autodesk_Fusion-Learning-0696D7?style=for-the-badge&logo=autodesk&logoColor=white">`{=html}
-`<img alt="Rhinoceros 3D" src="https://img.shields.io/badge/Rhino_3D-Learning-801010?style=for-the-badge">`{=html}
-`<img alt="Grasshopper" src="https://img.shields.io/badge/Grasshopper-Learning-7BAA3C?style=for-the-badge">`{=html}
-`<img alt="Parametric Design" src="https://img.shields.io/badge/Parametric_Design-Research-6A5ACD?style=for-the-badge">`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github" />
 </p>
-```
-### Generative & Computational Engineering
 
-```{=html}
+**CAD & Computational Design**
+
 <p>
-```
-`<img alt="Generative Design" src="https://img.shields.io/badge/Generative_Design-Research-8A2BE2?style=for-the-badge">`{=html}
-`<img alt="Topology Optimization" src="https://img.shields.io/badge/Topology_Optimization-Learning-4B8BBE?style=for-the-badge">`{=html}
-`<img alt="FEA" src="https://img.shields.io/badge/FEA-Exploring-0078D4?style=for-the-badge">`{=html}
-`<img alt="Engineering Simulation" src="https://img.shields.io/badge/Engineering_Simulation-Exploring-008577?style=for-the-badge">`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/Autodesk_Fusion-Learning-0696D7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rhinoceros_3D-Learning-801010?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grasshopper-Learning-7BAA3C?style=for-the-badge" />
 </p>
-```
-### AI, Data & Optimization
 
-```{=html}
+**Engineering & Optimization**
+
 <p>
-```
-`<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-Exploring-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">`{=html}
-`<img alt="NumPy" src="https://img.shields.io/badge/NumPy-Learning-013243?style=for-the-badge&logo=numpy&logoColor=white">`{=html}
-`<img alt="SciPy" src="https://img.shields.io/badge/SciPy-Learning-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">`{=html}
-`<img alt="Optimization" src="https://img.shields.io/badge/Design_Optimization-Research-2E8B57?style=for-the-badge">`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/Generative_Design-Research-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/FEA-Exploring-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Topology_Optimization-Learning-4B8BBE?style=flat-square" />
+  <img src="https://img.shields.io/badge/NumPy-Learning-013243?style=flat-square" />
+  <img src="https://img.shields.io/badge/SciPy-Learning-8CAAE6?style=flat-square" />
 </p>
-```
 
-```
+---
 
-------------------------------------------------------------------------
+## 🚀 Featured Projects
 
-## 🚀 Selected Projects
+| Project | Focus | Status |
+|---|---|---|
+| Generative Product Component | Parametric CAD & Optimization | Planning |
+| Computational Lattice Structure | Computational Geometry & 3D Printing | Planning |
+| AI-Assisted Product Engineering | Python & Generative Engineering | Planning |
 
-Projects will be added as I develop practical skills and research ideas.
-
-  -----------------------------------------------------------------------------------
-  Project                             Focus                   Status
-  ----------------------------------- ----------------------- -----------------------
-  [Project 1 --- Generative Product   Parametric CAD,         Planned
-  Component](%5BPROJECT_1_URL%5D)     generative design,      
-                                      structural optimization 
-
-  [Project 2 --- Computational        Computational geometry, Planned
-  Lattice                             lattice design,         
-  Structure](%5BPROJECT_2_URL%5D)     additive manufacturing  
-
-  [Project 3 --- AI-Assisted Product  Python, design          Planned
-  Engineering](%5BPROJECT_3_URL%5D)   exploration,            
-                                      simulation,             
-                                      optimization            
-  -----------------------------------------------------------------------------------
-
-**For each project, I aim to document:** - The problem statement and
-design requirements. - The computational workflow and tools used. -
-Design alternatives and optimization constraints. - Simulation, testing,
-and validation results. - Manufacturing considerations and lessons
-learned.
-
-------------------------------------------------------------------------
+---
 
 ## 📚 Currently Learning
 
--   [ ] Engineering mathematics and mechanics
--   [ ] Materials science and product design fundamentals
--   [ ] 3D CAD modeling with Autodesk Fusion
--   [ ] Parametric modeling with Rhino and Grasshopper
--   [ ] Python for computational geometry and optimization
--   [ ] Generative design and topology optimization
--   [ ] Finite Element Analysis (FEA) and simulation
--   [ ] Additive manufacturing and Design for Manufacturing (DFM)
+- [ ] Engineering Mathematics & Mechanics
+- [ ] Product Design Fundamentals
+- [ ] Autodesk Fusion & 3D CAD
+- [ ] Rhino 3D & Grasshopper
+- [ ] Python for Computational Geometry
+- [ ] Generative Design & Topology Optimization
+- [ ] Finite Element Analysis
+- [ ] Digital Manufacturing & DFM
 
-------------------------------------------------------------------------
+---
 
-## 📈 My Direction
+## 📫 Connect
 
-**IT Engineering → Computational Design → Generative Engineering →
-Computational Product Design**
+- **Email:** [phusangle@proton.me](mailto:phusangle@proton.me)
+- **Portfolio:** [Your Portfolio](YOUR_PORTFOLIO_URL)
+- **Location:** Hanoi, Vietnam
 
-I believe the future of product development will increasingly combine
-human-centered design, computational methods, simulation, artificial
-intelligence, and advanced manufacturing.
+---
 
-I'm documenting my learning journey, experiments, and projects here.
-Feedback, ideas, and constructive discussions are always welcome.
-
-------------------------------------------------------------------------
-
-## 📫 Connect With Me
-
--   **Name:** \[Sang Le\]
--   **Email:** \[phusangle@proton.me\]
--   **Portfolio / Website:** \[YOUR_PORTFOLIO_URL\]
--   **Location:** \[HANOI, VN\]
-
-```{=html}
 <p align="center">
-```
-`<i>`{=html}Designing with algorithms. Engineering with purpose.
-Building for the physical world.`</i>`{=html}
-```{=html}
+  <i>Design with algorithms. Engineer with purpose. Create for the physical world.</i>
 </p>
-```
-
