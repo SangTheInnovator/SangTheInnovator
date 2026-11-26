@@ -1,5 +1,4 @@
-<h1 align="center">Hello world 👋 </h1>
-<h3 align="center">Sang is here with his AI Agent </h3>
+<h1 align="center">Hello world 👋, My name is Sang </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=00A6A6&center=true&vCenter=true&width=650&lines=Computational+Industrial+Design;Generative+Design+%26+Engineering;From+Algorithms+to+Physical+Products" alt="Animated introduction" />
