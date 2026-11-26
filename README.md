@@ -23,8 +23,8 @@ Interested in using algorithms, parametric modeling, simulation, and AI to creat
 ## 🧠 Research Interests
 
 <p>
-  <img src="https://img.shields.io/badge/Parametric_Design-Research-00A6A6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Generative_Design-Research-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Parametric_Design-00A6A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Generative_Design-8A2BE2?style=flat-square" />
   <img src="https://img.shields.io/badge/Computational_Geometry-3776AB?style=flat-square" />
   <img src="https://img.shields.io/badge/Topology_Optimization-4B8BBE?style=flat-square" />
   <img src="https://img.shields.io/badge/FEA-008577?style=flat-square" />
