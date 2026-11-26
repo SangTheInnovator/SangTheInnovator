@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Computational_Design-00A6A6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Field-Industrial_Design-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Field-Industrial_Design-F7931E?style=flat-square" />
   <img src="https://img.shields.io/badge/Background-IT_Engineering-3776AB?style=flat-square" />
 </p>
 
@@ -28,8 +28,7 @@ Interested in using algorithms, parametric modeling, simulation, and AI to creat
   <img src="https://img.shields.io/badge/Computational_Geometry-3776AB?style=flat-square" />
   <img src="https://img.shields.io/badge/Topology_Optimization-4B8BBE?style=flat-square" />
   <img src="https://img.shields.io/badge/FEA-008577?style=flat-square" />
-  <img src="https://img.shields.io/badge/Digital_Manufacturing-555555?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_for_Engineering-F7931E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Digital_Manufacturing-F7931E?style=flat-square" />
   <img src="https://img.shields.io/badge/Sustainable_Design-2E8B57?style=flat-square" />
 </p>
 
